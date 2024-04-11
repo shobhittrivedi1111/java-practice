@@ -3,6 +3,7 @@ public class Main {
         System.out.println("shobhit trivedi");
         System.out.println("haidergarh");
         System.out.println("lucknow");
+        System.out.println("IT Sector");
         System.out.println("pincode: "+ 225124);
     }
 }
